@@ -16,7 +16,7 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "url": "https://liveboardupdates.pages.dev/Bagging LiveBoard.exe"
+      "url": "https://cfana.b-cdn.net/Bagging%20LiveBoard.exe"
     }
   }
 }
