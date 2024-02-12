@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "notes": "Test version",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "pub_date": "2024-02-11T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
