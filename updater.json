@@ -1,7 +1,7 @@
 {
   "version": "v1.1.0",
-  "notes": "Test version",
-  "pub_date": "2024-02-11T19:25:57Z",
+  "notes": "Updater Run 1",
+  "pub_date": "2024-02-12T23:36:49Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://liveboardupdates.pages.dev/BaggingLiveBoard.zip"
